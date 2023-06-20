@@ -40,7 +40,7 @@ const url="https://us21.api.mailchimp.com/3.0/lists/78f7b0822";
 
 const options={
   method:"POST",
-  auth:"reshma1:60aa0da6d0d67d30b3980af13d5aeb1e-us21"
+  auth:"reshma1:838a61011ab878ca447ac9810bd00f39-us21"
 }
 
 const request=https.request(url,options,function(response){
